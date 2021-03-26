@@ -1,0 +1,11 @@
+#Content
+Basic Boiler tempelate
+internal and external css sheet
+elementry html tags
+heading tags
+break, horizontal line, paragraph, link, img tags
+tables
+iframe tag
+
+
+
